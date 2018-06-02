@@ -1,0 +1,36 @@
+h1{
+	font-family: 'Special Elite';
+	color : #A7383E;
+	text-align: center;
+}
+h2{
+	font-family: 'Special Elite';
+	color : #A7383E;
+	text-align: right;
+}
+h3{
+	font-family: 'Open Sans', sans-serif;
+}
+button{
+	text-align: center;
+}
+.btn{
+	font-weight: 700;
+	text-transform: uppercase;
+	border-radius: 300px;
+	font-family: 'Didact Gothic', sans-serif;
+}
+
+.btn-primary{
+	padding: 1rem 2rem;
+}
+
+.btn-primary{
+	background-color: #852C64;
+	border-color: #420029;
+}
+
+.btn-primary:hover{
+	background-color: #A65387;
+	border-color: yellow;
+}
